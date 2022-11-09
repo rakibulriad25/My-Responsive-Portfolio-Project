@@ -1,5 +1,7 @@
 # Personal Responsive Portfolio
 
+![Rakibul Riad's Portfolio](https://raw.githubusercontent.com/rakibulriad25/My-Responsive-Portfolio-Project/master/cover.png)
+
 Hey guys! This my personal portfolio made with HTML, CSS and Javascript. 😀
 
 
